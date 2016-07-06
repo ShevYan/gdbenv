@@ -8,7 +8,7 @@ copy to docker source directory.
 
 
 # debug running daemon
-gdb --pid=<docker_process>
+gdb --pid=**docker_process**
 
 # debug client command
 gdb <command>
